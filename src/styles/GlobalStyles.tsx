@@ -11,6 +11,7 @@ body {
   margin: 0;
   display: flex;
   justify-content: center;
+  align-items: center;
   font-family: "Share Tech Mono", monospace;
 
 }

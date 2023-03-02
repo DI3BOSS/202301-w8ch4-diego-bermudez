@@ -3,12 +3,12 @@ import styled from "styled-components";
 const KeyboardStyled = styled.main.attrs({
   className: "keyboard",
 })`
-  width: 270px;
+  width: 330px;
   justify-content: space-around;
   display: flex;
   flex-wrap: wrap;
   gap: 5px;
-  rotate: 3deg;
+  padding-bottom: 10px;
 `;
 
 export default KeyboardStyled;

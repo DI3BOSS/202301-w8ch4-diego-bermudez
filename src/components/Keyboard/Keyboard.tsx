@@ -6,7 +6,7 @@ const Keyboard = (): JSX.Element => {
   return (
     <KeyboardStyled>
       {keyboardKeys.map((key) => (
-        <Button value={key} />
+        <Button value={key} key={key} />
       ))}
     </KeyboardStyled>
   );
