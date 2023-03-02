@@ -16,9 +16,9 @@ const keyboardKeys = [
   3,
   "+",
   0,
-  0,
   ".",
   "=",
+  "CE",
 ];
 
 export default keyboardKeys;

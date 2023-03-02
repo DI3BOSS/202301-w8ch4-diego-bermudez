@@ -10,8 +10,8 @@ const ButtonStyled = styled.button.attrs({
   font-family: "Share Tech Mono", monospace;
   font-size: 24px;
   border-style: outset;
-  width: 60px;
-  height: 50px;
+  width: 70px;
+  height: 60px;
   color: rgba(240, 240, 240, 1);
   background: linear-gradient(
     120deg,
