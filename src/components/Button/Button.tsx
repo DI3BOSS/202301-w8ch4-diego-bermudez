@@ -1,6 +1,4 @@
 import ButtonStyled from "./ButtonStyled";
-import "@fontsource/share-tech-mono";
-
 interface ButtonProps {
   value: number | string;
 }

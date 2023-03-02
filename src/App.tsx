@@ -1,7 +1,7 @@
-import Button from "./components/Button/Button";
+import Keyboard from "./components/Keyboard/Keyboard";
 
 const App = (): JSX.Element => {
-  return <Button value={1} />;
+  return <Keyboard />;
 };
 
 export default App;
