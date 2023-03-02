@@ -3,13 +3,14 @@ import styled from "styled-components";
 const ButtonStyled = styled.button.attrs({
   className: "button",
 })`
+  margin: 3px 0;
   display: flex;
   align-items: center;
   justify-content: center;
   font-family: "Share Tech Mono", monospace;
   font-size: 24px;
   border-style: outset;
-  width: 50px;
+  width: 60px;
   height: 50px;
   color: rgba(240, 240, 240, 1);
   background: linear-gradient(
